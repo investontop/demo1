@@ -1,4 +1,4 @@
 Going to see how p4merge works
 and going to create a new branch
 
-modified this line - master update
+modified this line
