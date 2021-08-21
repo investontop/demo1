@@ -1,9 +1,4 @@
 Going to see how p4merge works
 and going to create a new branch
 
-modified this line
-<<<<<<< HEAD
-Now update this in update1 Branch
-=======
-Another update from update1 branch
->>>>>>> update1
+Removed the unwanted lines
