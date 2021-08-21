@@ -1,5 +1,4 @@
 Going to see how p4merge works
 and going to create a new branch
 
-TEST4: STEP2 : Modified this line in BRANCH2
-TEST4: STEP1: Updated in MASTER
+TEST5: STEP1: Updated in BRANCH3
