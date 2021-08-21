@@ -3,3 +3,5 @@ and going to create a new branch
 
 Removed the unwanted lines
 Now adding new lines in update1
+
+New update from master
