@@ -1,4 +1,4 @@
 Going to see how p4merge works
 and going to create a new branch
 
-clean start from branch1
+clean start from master
